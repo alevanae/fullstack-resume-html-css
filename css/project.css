@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.icon {
+  width: 1.8rem;
+  height: 1.8rem;
+  margin: 0.5rem;
+  flex-shrink: 0;
+  align-self: center;
+}
+.timeline-number {
+  width: 2.5rem;
+  height: 2.5rem;
+  font-size: 1.5rem;
+  background-color: #7048e8;
+  text-align: center;
+  border-radius: 50%;
+  color: #fff;
+}
+
+
